@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "socialnetworkproject-e0599"
-  }
+    "default": "ist105midtermexam-martin-79f67",
+    "midterm": "ist105midtermexam-martin-79f67"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
